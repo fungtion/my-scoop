@@ -1,5 +1,5 @@
 # my-scoop
-my scoop buck
+my scoop bucket
 
 you can add it to your scoop buckets by
 
