@@ -3,7 +3,7 @@
     "version": "0.3.0",
     "license": "MIT",
     "url": "https://github.com/sentialx/multrin/releases/download/v0.3.0/Multrin-0.3.0-win.zip",
-    "hash": "kIhHAnSQTvNAUI9EzVc+jtsAiVvh3Y33JFSPeYsZduBS7qTF+0avvI1A+WHSkOcQQJJTdFKZM2S6cks7Yt2xyw==",
+    "hash": "2fa935459430fbfa22d67bd48c923d447ac4fe3af25e3f0dc1b5c8682c2498b2",
     "bin": "Multrin.exe",
     "shortcuts": [
 	    [ "Multrin.exe", "Multrin 0.3.0" ]
