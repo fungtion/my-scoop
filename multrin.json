@@ -1,12 +1,12 @@
 {
     "homepage": "https://github.com/sentialx/multrin",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "license": "MIT",
-    "url": "https://github.com/sentialx/multrin/releases/download/v0.3.1/Multrin-0.3.1-win.zip",
-    "hash": "CA84574C7049420B0869A6A6F28E6C6360E4DDCB9747B1598080C3ECD3288F76",
+    "url": "https://github.com/sentialx/multrin/releases/download/v0.3.1/Multrin-0.3.2-win.zip",
+    "hash": "CD2E73921D515754287371D9B5377EAE9986C12D45E5A12A4E229F158182304F",
     "bin": "Multrin.exe",
     "shortcuts": [
-	    [ "Multrin.exe", "Multrin 0.3.1" ]
+	    [ "Multrin.exe", "Multrin 0.3.2" ]
     ],
     "checkver": "github",
     "autoupdate": {
